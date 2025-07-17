@@ -29,7 +29,7 @@ body {
 @media (max-width:400px) {
   .jumbotron {
   color: black;
-  border: 2px solid #ccac00;  /* complete border */
+  border: none;  /* complete border */
 }
 #jumbotext{
   color:#ccac00;
@@ -39,7 +39,7 @@ body {
 
 .btn.custom-btn{
   color:#ccac00;
-  background-color:#303234;
+  background-color:black;
   border:  1px solid #aaa9ad
   padding: 12px 24px; 
   font-size: 1em; 
