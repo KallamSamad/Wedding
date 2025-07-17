@@ -14,7 +14,7 @@ jumbotron{
   font-family: 'Lato";
 }
  
-.btn-custom-btn:hover {
+.btn.custom-btn:hover {
   background-color: #f7e7ce; /* gold on hover */
   color: black; /* optional: for contrast */
 }
