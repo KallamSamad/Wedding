@@ -1,6 +1,6 @@
-jumbotron{
+.jumbotron{
   color: black;
 }
-jumbotext{
+#jumbotext{
   color:#ccac00;
 }
