@@ -1,6 +1,6 @@
 .jumbotron {
   color: black;
-  border: 2px solid #ccac00;  /* complete border */
+  border: none;  
 }
 #jumbotext{
   color:#ccac00;
