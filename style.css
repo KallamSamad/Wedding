@@ -1,4 +1,4 @@
-jumbotron {
+.jumbotron {
   color: black;
   border: 2px solid #ccac00;  /* complete border */
 }
@@ -11,10 +11,10 @@ jumbotron {
 .btn.custom-btn{
   color:#ccac00;
   background-color:#303234;
-  border: #aaa9ad;
+  border:  1px solid #aaa9ad
   padding: 14px 26px; 
   font-size: 1.5em; 
-  font-family: 'Lato";
+  font-family: 'Lato';
 }
  
 .btn.custom-btn:hover {
@@ -25,4 +25,35 @@ jumbotron {
 body {
   color: #f7e7ce;
   background-color: #000;  /* add dark background for contrast */
+}
+@media (max-width:400px) {
+  .jumbotron {
+  color: black;
+  border: 2px solid #ccac00;  /* complete border */
+}
+#jumbotext{
+  color:#ccac00;
+  font-family:  'Great Vibes', cursive;
+  font-size: 3.5em;
+}
+
+.btn.custom-btn{
+  color:#ccac00;
+  background-color:#303234;
+  border:  1px solid #aaa9ad
+  padding: 12px 24px; 
+  font-size: 1.25em; 
+  font-family: 'Lato';
+}
+ 
+.btn.custom-btn:hover {
+  background-color: #ccac00;  
+  color: black; 
+}
+
+body {
+  color: #f7e7ce;
+  background-color: #000; 
+}
+
 }
