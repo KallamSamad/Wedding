@@ -7,7 +7,8 @@ jumbotron{
   font-size: 5em;
 }
 
-.btn.btn-primary{
+.btn.custom-btn{
   background-color:#414a4c;
+  border: none:
 }
  
