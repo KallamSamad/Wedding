@@ -4,7 +4,7 @@ jumbotron{
 #jumbotext{
   color:#ccac00;
   font-family:  'Great Vibes', cursive;
-  font-size: 5em;
+  font-size: 3.5em;
 }
 
 .btn.custom-btn{
@@ -16,5 +16,5 @@ jumbotron{
  
 .btn.custom-btn:hover {
   background-color: #ccac00;  
-  color: black; /* optional: for contrast */
+  color: black; 
 }
