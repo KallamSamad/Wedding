@@ -9,12 +9,12 @@ jumbotron{
 
 .btn.custom-btn{
   color:#ccac00;
-  background-color:#ccac00;
+  background-color:#303234;
   border: #aaa9ad;
   font-family: 'Lato";
 }
  
 .btn.custom-btn:hover {
-  background-color: #f7e7ce; /* gold on hover */
+  background-color: #ccac00;  
   color: black; /* optional: for contrast */
 }
