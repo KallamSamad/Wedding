@@ -6,6 +6,6 @@ A website for marquees, Weddings and Mendhis. I used bootstrap here to see how m
 
 
 
-#How to install
+# How to install
 1. Fork and clone repo
 2. Run in browser
